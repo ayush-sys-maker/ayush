@@ -35,10 +35,10 @@
         <div class="collapse navbar-collapse" id="navbarContent">
           <!-- Menu -->
           <ul    class="navbar-nav gap-4 ms-5 ps-5 mb-2 mb-lg-0">
-            <li class="nav-item"><a class="nav-link" href="home.html">Home</a></li>
-            <li class="nav-item"><a class="nav-link" href="product.html">Men</a></li>
-            <li class="nav-item"><a class="nav-link" href="WOMEN.html">Women</a></li>
-            <li class="nav-item"><a class="nav-link" href="#">Kids</a></li>
+            <li class="nav-item"><a class="nav-link" href="/home">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="/MEN">Men</a></li>
+            <li class="nav-item"><a class="nav-link" href="/WOMEN">Women</a></li>
+            <li class="nav-item"><a class="nav-link" href="/KIDS">Kids</a></li>
           </ul>
           
           <!-- Search -->
@@ -56,7 +56,7 @@
           <div style="margin-left: 250px;" class="d-flex gap-2 align-items-center">
             <!-- Cart button -->
             <button class="btn  position-relative p-1">
-              <i class="fas fa-shopping-cart fs-5"></i>
+              <i class="fas fa-shopping-cart fs-5" ><a href="/cart"></a></i>
             
             </button>
             
@@ -104,7 +104,8 @@
     <p class="text-danger mb-1"><%= product.price %></p>
     <p class="fw-bold mb-1"><%= product.name %></p>
     <p class="text-muted small mb-1"><%= product.category %></p>
-    <p class="text-muted small">6 More Colors</p>
+        <button  class="btn btn-dark mt-3 cart" onclick="window.location.href= '/cart/add/kids/<%= product.id %>' ">ADD TO CART</button>
+
   </div>
 </div>
       <%  } )  %>

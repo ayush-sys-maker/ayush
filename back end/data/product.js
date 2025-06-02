@@ -6,8 +6,8 @@ men:[
       id: 1,
       name: "LYCRA TRACK",
       category: "Men ",
-      price: 1039.50,
-      image: "/images/track.avif",
+      price: 499.50,
+      image: "track.avif",
       color: "black",
       discount: 20,
       description: "Comfortable lycra track pants for men"
@@ -20,8 +20,8 @@ men:[
       id: 2,
       name: "polister TRACK",
       category: "Men ",
-      price: 1000.50,
-      image: "/images/track.avif",
+      price: 499.50,
+      image: "track.avif",
       colors: 6,
       discount: 20,
       description: "Comfortable lycra track pants for men"
@@ -34,7 +34,7 @@ men:[
       name: "dotted TRACK",
       category: "Men ",
       price: 1200.00,
-      image: "/images/track.avif",
+      image: "track.avif",
       colors: 6,
       discount: 20,
       description: "Comfortable lycra track pants for men"
@@ -49,7 +49,7 @@ men:[
       name: "dotted TRACK",
       category: "Men ",
       price: 1200.00,
-      image: "/images/track.avif",
+      image: "track.avif",
       colors: 6,
       discount: 20,
       description: "Comfortable lycra track pants for men"
@@ -64,7 +64,7 @@ men:[
       name: "dotted TRACK",
       category: "Men ",
       price: 1200.00,
-      image: "/images/track.avif",
+      image: "track.avif",
       colors: 6,
       discount: 20,
       description: "Comfortable lycra track pants for men"
@@ -79,7 +79,7 @@ men:[
       name: "dotted TRACK",
       category: "Men ",
       price: 1200.00,
-      image: "/images/track.avif",
+      image: "track.avif",
       colors: 6,
       discount: 20,
       description: "Comfortable lycra track pants for men"
@@ -94,7 +94,7 @@ men:[
       name: "dotted TRACK",
       category: "Men ",
       price: 1200.00,
-      image: "/images/track.avif",
+      image: "track.avif",
       colors: 6,
       discount: 20,
       description: "Comfortable lycra track pants for men"
@@ -109,7 +109,7 @@ men:[
       name: "dotted TRACK",
       category: "Men ",
       price: 1200.00,
-      image: "/images/track.avif",
+      image: "track.avif",
       colors: 6,
       discount: 20,
       description: "Comfortable lycra track pants for men"
@@ -124,7 +124,7 @@ men:[
       name: "dotted TRACK",
       category: "Men ",
       price: 1200.00,
-      image: "/images/track.avif",
+      image: "track.avif",
       colors: 6,
       discount: 20,
       description: "Comfortable lycra track pants for men"
@@ -144,7 +144,7 @@ women:[
       name: "BRA",
       category: "women",
       price: 200.00,
-      image: "/images/track.avif",
+      image: "track.avif",
       colors: 6,
       discount: 20,
       description: "Comfortable lycra BRA  for men"
@@ -156,7 +156,7 @@ women:[
       name: "BRA",
       category: "Men Track",
       price: 200.00,
-      image: "/images/track.avif",
+      image: "track.avif",
       colors: 6,
       discount: 20,
       description: "Comfortable lycra BRA  for men"
@@ -167,7 +167,7 @@ women:[
       name: "BRA",
       category: "Men Track",
       price: 200.00,
-      image: "/images/track.avif",
+      image: "track.avif",
       colors: 6,
       discount: 20,
       description: "Comfortable lycra BRA  for men"
@@ -178,7 +178,7 @@ women:[
       name: " Sports  BRA",
       category: "Men Track",
       price: 400.00,
-      image: "/images/track.avif",
+      image: "track.avif",
       colors: 6,
       discount: 20,
       description: "Comfortable lycra BRA  for men"
@@ -189,7 +189,7 @@ women:[
       name: "padded bra",
       category: "Men Track",
       price: 500.00,
-      image: "/images/track.avif",
+      image: "track.avif",
       colors: 6,
       discount: 20,
       description: "Comfortable lycra BRA  for men"
@@ -200,7 +200,7 @@ women:[
       name: "BRA",
       category: "Men Track",
       price: 200.00,
-      image: "/images/track.avif",
+      image: "track.avif",
       colors: 6,
       discount: 20,
       description: "Comfortable lycra BRA  for men"
@@ -211,7 +211,7 @@ women:[
       name: " Sports  BRA",
       category: "Men Track",
       price: 400.00,
-      image: "/images/track.avif",
+      image: "track.avif",
       colors: 6,
       discount: 20,
       description: "Comfortable lycra BRA  for men"
@@ -222,7 +222,7 @@ women:[
       name: "padded bra",
       category: "Men Track",
       price: 500.00,
-      image: "/images/track.avif",
+      image: "track.avif",
       colors: 6,
       discount: 20,
       description: "Comfortable lycra BRA  for men"
@@ -233,7 +233,7 @@ women:[
       name: "BRA",
       category: "Men Track",
       price: 200.00,
-      image: "/images/track.avif",
+      image: "track.avif",
       colors: 6,
       discount: 20,
       description: "Comfortable lycra BRA  for men"

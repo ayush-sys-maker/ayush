@@ -1,0 +1,8 @@
+learned about engine setup and dirname 
+
+
+learned about session 
+
+learned about how to take id from url 
+
+learned about how to use filter  and reduce  bascially a callback function.
